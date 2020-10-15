@@ -1,0 +1,19 @@
+
+section
+{
+	background: beige;
+}
+
+section #titre, h3
+{
+	background-color: yellow;
+	color: pink;
+	text-align: center;
+	font-family: 'Rubik';
+}
+
+section #paragraphe_1
+{
+	background-color: green;
+	color: white;
+}

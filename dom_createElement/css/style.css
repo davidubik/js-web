@@ -1,0 +1,30 @@
+
+.rouge, .vert, .bleu, .jaune
+{
+  width: 300px;
+  height: 100px;
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.rouge
+{
+  background: red;
+}
+
+.vert
+{
+  background: green;
+}
+
+.bleu
+{
+  background: blue;
+}
+
+.jaune
+{
+  background: yellow;
+}
